@@ -1,0 +1,11 @@
+real-need-vs-mimic-flowchart/
+├─ README.md
+├─ LICENSE
+├─ .gitignore
+├─ diagrams/
+│  └─ decision-flow.mmd
+├─ docs/
+│  └─ index.html
+└─ .github/
+   └─ workflows/
+      └─ mermaid-render.yml
